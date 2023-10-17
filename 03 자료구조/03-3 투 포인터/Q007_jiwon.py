@@ -1,11 +1,22 @@
 n = int(input())
 m = int(input())
-numbers = list(map(int, input().split()))
-count = 0
+data = list(map(int, input().split()))
+data.sort()
 
-for i in range(n-1):
-    for j in range(i+1, n):
-        if(numbers[i] + numbers[j] == m):
-            count += 1
+count = 0
+hap = 0
+
+start = 0
+end = n-1
+while(start < end):
+    hap = data[start] + data[end]
+    if(hap == m):
+        count += 1
+        start += 1
+        end -= 1
+    elif(hap > m):
+        end -= 1
+    else:
+        start += 1
 
 print(count)
