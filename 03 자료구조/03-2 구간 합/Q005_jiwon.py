@@ -11,7 +11,6 @@ for i in range(1,n):
     arr[i] = (arr[i-1]+arr[i])%m
     cnt_rem[arr[i]]+=1
 
-# 0? ?? + ???? ?? ??? ??
 ans = cnt_rem[0]
 for i in cnt_rem:
     if i>=2:
