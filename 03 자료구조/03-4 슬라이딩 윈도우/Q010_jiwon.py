@@ -1,8 +1,3 @@
-# 슬라이딩 윈도우를 deque으로 구현하면 정렬 효과를 볼 수 있음
-# deque의 구조
-# 왼쪽 : appendleft() 삽입, popleft() 삭제
-# 오른쪽 : append() 삽입, pop() 삭제
-
 import sys
 from collections import deque
 input = lambda : sys.stdin.readline().rstrip()
