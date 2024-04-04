@@ -15,3 +15,19 @@ c
 303 자료구조/03-5 스택과 큐/Q011_jaehyeok.py,d/2/d29944363b8aee013d40811d54fe0db83a6f949e
 l
 <03 자료구조/03-4 슬라이딩 윈도우/Q010_jaehyeok.py,0/c/0c47ebbebc30d4c42dfa2d99963b13e6dc0644b5
+c
+303 자료구조/03-5 스택과 큐/Q012_jaehyeok.py,a/8/a831e6018122426005ef586a0b5828f045942725
+f
+603 자료구조/03-1 배열과 리스트/Q001_hamin.py,1/1/1128987e196d5791a270d02642cb913cf12b6f79
+f
+603 자료구조/03-1 배열과 리스트/Q001_haeun.py,6/a/6afadbf38d03060e00dc2ee6d073d5aefb1fde8c
+f
+603 자료구조/03-1 배열과 리스트/Q002_haeun.py,6/2/622f84580a3f20e1bab75d655b402aac82ca4595
+i
+903 자료구조/03-1 배열과 리스트/Q001_jaehyeok.py,0/a/0adf741651ade5a887f7afce344a7b8c139eb0e6
+i
+903 자료구조/03-1 배열과 리스트/Q002_jaehyeok.py,c/6/c64420ce888ef102e9ae7549dcf78629cb88cc45
+`
+003 자료구조/03-2 구간 합/Q003_jaehyeok.py,0/8/08d626ffd8a3434f41a667e20ad184ff26f45931
+]
+-03 자료구조/03-2 구간 합/Q003_hamin.py,6/0/60018078e54bb57580131270fea1af9439e334c5
